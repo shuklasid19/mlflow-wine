@@ -1,0 +1,10 @@
+pandas 
+sklearn
+dvc
+dvc[gdrive]
+tox
+flake8
+flask
+gunicorn
+pyYAML
+
